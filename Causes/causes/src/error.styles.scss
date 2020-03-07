@@ -1,0 +1,12 @@
+.ng-touched.ng-invalid, .password-match-touched.password-match-invalid{
+    border-color: red;
+}
+
+.ng-valid{
+    border-color: green;
+}
+
+.error-message{
+    color: red;
+    font-style: italic;
+}
